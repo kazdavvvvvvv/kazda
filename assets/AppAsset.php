@@ -6,7 +6,7 @@
  */
 
 namespace app\assets;
-vova+luda=lubov
+
 use yii\web\AssetBundle;
 
 /**
